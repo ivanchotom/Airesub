@@ -1,0 +1,5 @@
+﻿  Main.cpp
+d:\resit\a.i assignment\a star\astarmazereader\astarmazereader\main.cpp(266): warning C4018: '<': signed/unsigned mismatch
+d:\resit\a.i assignment\a star\astarmazereader\astarmazereader\main.cpp(299): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\resit\a.i assignment\a star\astarmazereader\astarmazereader\main.cpp(354): warning C4018: '<': signed/unsigned mismatch
+  AstarMazeReader.vcxproj -> D:\RESIT\A.I assignment\A star\AstarMazeReader\Debug\AstarMazeReader.exe

@@ -1,0 +1,10 @@
+﻿  Main.cpp
+d:\resit\a.i assignment\g.a\geneticalgorithmmazereader\geneticalgorithmmazereader\main.cpp(45): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\resit\a.i assignment\g.a\geneticalgorithmmazereader\geneticalgorithmmazereader\main.cpp(120): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\resit\a.i assignment\g.a\geneticalgorithmmazereader\geneticalgorithmmazereader\main.cpp(124): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\resit\a.i assignment\g.a\geneticalgorithmmazereader\geneticalgorithmmazereader\main.cpp(131): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\resit\a.i assignment\g.a\geneticalgorithmmazereader\geneticalgorithmmazereader\main.cpp(152): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\resit\a.i assignment\g.a\geneticalgorithmmazereader\geneticalgorithmmazereader\main.cpp(212): warning C4018: '<': signed/unsigned mismatch
+d:\resit\a.i assignment\g.a\geneticalgorithmmazereader\geneticalgorithmmazereader\main.cpp(344): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\resit\a.i assignment\g.a\geneticalgorithmmazereader\geneticalgorithmmazereader\main.cpp(109): warning C4715: 'IndividualSelector': not all control paths return a value
+  GeneticAlgorithmMazeReader.vcxproj -> D:\RESIT\A.I assignment\G.A\GeneticAlgorithmMazeReader\Debug\GeneticAlgorithmMazeReader.exe
